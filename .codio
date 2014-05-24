@@ -1,0 +1,16 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+    "Grunt Serve": "grunt serve",
+    "Grunt Test": "grunt test",
+    "Grunt Build": "grunt",
+    "Grunt Serve:Dist": "grunt serve:dist"
+  },
+
+// Preview button configuration
+  "preview": {
+    "JS interface": "http://{{domain}}:9000/"
+  }
+}
